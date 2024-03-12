@@ -8,7 +8,7 @@ I'm a Web Developer in Asp.NET. I have been learning Web Development for over a 
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [rezwanshahriorrahin@gmail.com](mailto:rezwanshahriorrahin@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning Unit Testing
 * 🤝  I'm open to collaborating on Web Projects
 
 ### Skills
