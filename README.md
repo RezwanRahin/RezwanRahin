@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rezwan Rahin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rezwan Rahin
 ====================================================================================================================================
 
-Asp.net Web Developer
+ASP.NET Developer
 ---------------------
 
-I'm a Web Developer in Asp.NET. I have been learning Web Development for over a year. After trying out several technologies, I found my passion on Asp.net Core web technology.
+I'm a ASP.NET developer. I have been learning Web Development for over a year. After trying out several technologies, I found my passion on ASP.NET Core web technology.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [rezwanshahriorrahin@gmail.com](mailto:rezwanshahriorrahin@gmail.com)
@@ -30,29 +30,30 @@ I'm a Web Developer in Asp.NET. I have been learning Web Development for over a 
 </p>
 
 ### Projects
-### --> Asp.NET
+### --> ASP.NET
 
 <div class="mt-3">
-    📌 <b>MyProfile</b>
-    <!-- <a href="" class="demoLink">link</a><br> -->
+    📌 <b>MyProfile</b>  <i><a href="https://github.com/RezwanRahin/MyProfile" class="demoLink">repo</a></i><br>
     <ul>
         <li>Profile System</li>
         <li>Custom Authorization & Authentication</li>
+        <li>MVC Pattern</li>
     </ul>
 </div>
 <div class="mt-3">
-    📌 <b>FindMusic</b>
-    <!-- <a href="" class="demoLink">link</a><br> -->
+    📌 <b>FindMusic</b>  <i><a href="https://github.com/RezwanRahin/FindMusic" class="demoLink">repo</a></i><br>
     <ul>
-        <li>Music By Movies & Series</li>
+        <li>Music & Songs in Movies & Series</li>
         <li>Community Interactive</li>
         <li>Custom Authorization & Authentication</li>
+        <li>EF Core</li>
+        <li>Repository Pattern, Dependency Injection</li>
+        <li>DRY principle</li>
     </ul>
 </div>
 
 <div class="mt-3">
-    📌 <b>RPG API</b>
-    <!-- <a href="" class="demoLink">link</a><br> -->
+    📌 <b>RPG API</b>  <i><a href="https://github.com/RezwanRahin/RPG" class="demoLink">repo</a></i><br>
     <ul>
         <li>Web API</li>
         <li>Entity Framework Core</li>
@@ -62,8 +63,7 @@ I'm a Web Developer in Asp.NET. I have been learning Web Development for over a 
     </ul>
 </div>
 <div class="mt-3">
-    📌 <b>Employee Management by kudvenkat</b>
-    <!-- <a href="" class="demoLink">link</a><br> -->
+    📌 <b>Employee Management by kudvenkat</b>  <i><a href="https://github.com/RezwanRahin/kudvenkat-employee-management" class="demoLink">repo</a></i><br>
     <ul>
         <li>Completed YouTube Course</li>
     </ul>
@@ -72,11 +72,16 @@ I'm a Web Developer in Asp.NET. I have been learning Web Development for over a 
 ### --> JavaScript
 
 <div class="mt-3">
-    📌 <b>MyNotes</b>
-    <!-- <a href="" class="demoLink">link</a><br> -->
+    📌 <b>MyNotes</b>  <i><a href="https://github.com/RezwanRahin/MyNotes" class="demoLink">repo</a></i><br>
     <ul>
         <li>Note App</li>
         <li>CRUD operation using DOM</li>
+    </ul>
+    📌 <b>Ramadan Time</b> <i><a href="https://github.com/nazimnk9/ramadan_time" class="demoLink">repo</a></i><br>
+    <ul>
+        <li>Iftar Countdown Timer</li>
+        <li>Prayer Timer</li>
+        <li>API Integration</li>
     </ul>
 </div>
 
