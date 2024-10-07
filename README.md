@@ -69,6 +69,23 @@ I'm a ASP.NET developer. I have been learning Web Development for over a year. A
     </ul>
 </div>
 
+### --> Angular
+
+<div class="mt-3">
+    📌 <b>EasyTask</b>  <i><a href="https://github.com/RezwanRahin/Task-Management-System-Angular" class="demoLink">repo</a></i><br>
+    <ul>
+        <li>Task Management System</li>
+        <li>User specific Task list</li>
+        <li>CRUD operation of 'Task'</li>
+    </ul>
+    📌 <b>Investment Calculator</b> <i><a href="https://github.com/RezwanRahin/Investment-Calculator-Angular" class="demoLink">repo</a></i><br>
+    <ul>
+        <li>User inputs initial and annual investment, and the expected return in % with a duration on years</li>
+        <li>The calculator outputs the investment value and capital both year on year along with the calculated interest</li>
+        <li>Use of Data Model and Service</li>
+    </ul>
+</div>
+
 ### --> JavaScript
 
 <div class="mt-3">
