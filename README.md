@@ -7,7 +7,7 @@ ASP.NET Developer
 I'm a ASP.NET developer. I have been learning Web Development for over a year. After trying out several technologies, I found my passion on ASP.NET Core web technology.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [rezwanshahriorrahin@gmail.com](mailto:rezwanshahriorrahin@gmail.com)
+* ✉️  You can contact me at [rezwanrahin.dev@gmail.com](mailto:rezwanrahin.dev@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Web Projects
 
