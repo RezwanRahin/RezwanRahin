@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ASP.NET Developer
 ---------------------
 
-I'm a ASP.NET developer. I have been learning Web Development for over a year. After trying out several technologies, I found my passion on ASP.NET Core web technology.
+I'm an ASP.NET developer with about a year of experience in web development. Passionate about building full-stack applications using ASP.NET Core and front-end frameworks like Angular.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [rezwanrahin.dev@gmail.com](mailto:rezwanrahin.dev@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning ADO.NET
 * 🤝  I'm open to collaborating on Web Projects
 
 ### Skills
